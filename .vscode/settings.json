@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "solidity.compileUsingRemoteVersion": "0.8.0",
+    "editor.minimap.enabled": false,
+    "editor.bracketPairColorization.enabled": true,
+    "solidity.remappings": [
+        "@chainlink/=/Users/isaactut/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@0.4.1",
+        "@openzeppelin/=/Users/isaactut/.brownie/packages/OpenZeppelin/openzeppelin-contracts@4.4.0"
+    ]
+}
